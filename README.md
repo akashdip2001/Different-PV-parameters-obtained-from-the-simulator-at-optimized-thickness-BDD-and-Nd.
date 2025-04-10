@@ -11,3 +11,5 @@ Different PV parameters obtained from the simulator at optimized thickness, BDD 
 ![Screenshot (17)](https://github.com/user-attachments/assets/863bbda9-4c45-4e34-9087-ac0c3051f367)
 ![Screenshot (18)](https://github.com/user-attachments/assets/ee69acd4-118a-43eb-908e-ff08cfbe03c9)
 ![Screenshot (19)](https://github.com/user-attachments/assets/48827c09-88ea-49c5-a6d2-4ea5e1ae3862)
+![Screenshot (20)](https://github.com/user-attachments/assets/e1d5a58b-dcb0-4916-92e7-3370e5b6a093)
+![Screenshot (21)](https://github.com/user-attachments/assets/d4b7988a-7665-4c73-ad72-ce9cc312756f)
