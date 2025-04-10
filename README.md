@@ -1,5 +1,4 @@
-# Details of various electrical parameters of the layers utilized during simulations &
-# Different-PV-parameters-obtained-from-the-simulator-at-optimized-thickness-BDD-and-Nd.
+# `Details of various electrical parameters of the layers utilized during simulations` & `Different-PV-parameters-obtained-from-the-simulator-at-optimized-thickness-BDD-and-Nd.`
 Predicting photovoltaic efficiency in Cs-based perovskite solar cells: A  comprehensive study integrating SCAPS simulation and machine  learning models.
 
 ![Screenshot 2025-04-11 010647](https://github.com/user-attachments/assets/d17c07c0-348e-4824-88b0-fd1374e18b50)
@@ -18,3 +17,5 @@ Predicting photovoltaic efficiency in Cs-based perovskite solar cells: A  compre
 
 ### Calculate: Single shot
 ![Screenshot (24)](https://github.com/user-attachments/assets/f14c74f5-1c08-4b56-861f-6827c2f2db90)
+
+<img src="show data 01.jpg">
